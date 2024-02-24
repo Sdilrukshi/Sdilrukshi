@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sadunika Dilrukshi</h1>
+<h1 align="center" style="animation: fadeIn 2s ease-in-out;">Hi 👋, I'm Sadunika Dilrukshi</h1>
 <h3 align="center">Undergraduate,Faculty of Technology, University of Ruhuna</h3>
 
 - 📫 How to reach me **sadunikadilrukshi99@gmail.com**
