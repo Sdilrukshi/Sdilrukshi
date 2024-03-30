@@ -5,6 +5,12 @@
 
 ## 🌐 Socials:
 [[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sadunika Dilrukshi)
+
+<a href="https://linkedin.com/in/Sadunika%20Dilrukshi">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/sadunika dilrukshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadunika dilrukshi" height="30" width="40" /></a>
 </p>
