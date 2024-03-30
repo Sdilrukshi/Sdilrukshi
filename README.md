@@ -1,5 +1,5 @@
 <h1 align="center" style="animation: fadeIn 2s ease-in-out; color: red;">Hi 👋, I'm Sadunika Dilrukshi</h1>
-<h3 align="center">Undergraduate,Faculty of Technology, University of Ruhuna</h3>
+<h3 align="center" style="color: green;">Undergraduate,Faculty of Technology, University of Ruhuna</h3>
 
 - 📫 How to reach me **sadunikadilrukshi99@gmail.com**
 
